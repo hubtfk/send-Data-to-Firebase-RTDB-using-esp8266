@@ -7,14 +7,14 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Asus 8z"
-#define WIFI_PASSWORD "00000000"
+#define WIFI_SSID "Your SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyCKAvNghV9IcgGZwwt_rnnJPi9HgVYNQ2I"
+#define API_KEY " paste api key "
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "esp8266-91c8b-default-rtdb.firebaseio.com/" 
+#define DATABASE_URL " paste db url " 
 
 //Define Firebase Data object
 FirebaseData fbdo;
